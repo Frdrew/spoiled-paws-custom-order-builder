@@ -1,0 +1,24 @@
+/* =======================
+   ORDER PROGRESSION STEPS
+========================= */
+
+.cob-steps {
+    display: flex;
+    gap: .75rem;
+    margin-bottom: 1.5rem;
+}
+
+.cob-step {
+    flex: 1;
+    padding: .75rem;
+    border-radius: 6px;
+    background: #eee;
+    text-align: center;
+    font-weight: 600;
+    transition: background .25s;
+}
+
+.cob-step.active {
+    background: #d28b41;
+    color: white;
+}

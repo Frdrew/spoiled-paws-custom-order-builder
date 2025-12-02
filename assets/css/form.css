@@ -1,0 +1,45 @@
+/* ===================================
+   CUSTOM ORDER — FORM BASE STYLES
+=================================== */
+
+.cob-form {
+    max-width: 680px;
+    margin: 0 auto;
+}
+
+.cob-group {
+    margin-bottom: 1.25rem;
+}
+
+.cob-label {
+    font-weight: 600;
+    margin-bottom: .35rem;
+    display: block;
+}
+
+.cob-input {
+    width: 100%;
+    padding: .6rem .75rem;
+    border: 2px solid #ddd;
+    border-radius: 6px;
+    font-size: 1rem;
+    transition: border-color .2s;
+}
+
+.cob-input:focus {
+    border-color: #d28b41;
+    outline: none;
+}
+
+.cob-error {
+    color: #b10000;
+    margin-top: .25rem;
+    font-size: .85rem;
+}
+
+.cob-success {
+    background: #e7f9eb;
+    border: 2px solid #73c38b;
+    padding: .75rem 1rem;
+    border-radius: 8px;
+}
