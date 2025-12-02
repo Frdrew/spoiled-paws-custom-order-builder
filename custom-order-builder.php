@@ -1,14 +1,14 @@
-<?php
 /**
- * Plugin Name: Spoiled Paws — Custom-order-builder
- * Description: Dog coat try-on viewer with silhouettes & coat overlays.
- * Version: 1.0.0
+ * Plugin Name: Spoiled Paws — Custom Order Builder
+ * Plugin URI: https://github.com/Frdrew/spoiled-paws-custom-order-builder
+ * Description: Custom dog coat order builder.
  * Author: Spoiled Paws
+ * Version: 1.0.0
  *
- * GitHub Plugin URI: https://github.com/Frdrew/spoiled-paws
- * GitHub Branch: main
+ * GitHub Plugin URI: Frdrew/spoiled-paws-custom-order-builder
  * Primary Branch: main
  */
+
 
 
 if (!defined('ABSPATH')) exit;
