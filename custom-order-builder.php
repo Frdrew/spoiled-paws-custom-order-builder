@@ -1,12 +1,12 @@
-<?php
-/**
- * Plugin Name: Spoiled Paws – Custom Order Builder
- * Description: Custom measurement form, WooCommerce integration, and coat order management.
+/*
+ * Plugin Name: Spoiled Paws Custom Order Builder
+ * Description: Custom product order builder for Spoiled Paws.
  * Version: 1.0.0
  * Author: Spoiled Paws
  * GitHub Plugin URI: Frdrew/spoiled-paws-custom-order-builder
- * GitHub Branch: main
+ * Primary Branch: main
  */
+
 
 if (!defined('ABSPATH')) exit;
 
